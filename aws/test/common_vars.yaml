@@ -1,0 +1,9 @@
+account_id: "YOUR_ACCOUNT_ID"
+namespace: capstone
+environment: test
+region: eu-central-1
+
+tags:
+  Namespace: capstone
+  Environment: test
+  Terraform: true
